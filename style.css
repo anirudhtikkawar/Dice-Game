@@ -1,0 +1,45 @@
+body {
+  background-color: #034f84;
+}
+.container {
+  text-align: center;
+  color: white;
+  font-size: 50px; 
+  
+}
+
+.dice1 {
+  display: inline-block;
+  text-align: center;
+  width: 49%;
+  
+}
+.dice2 {
+  display: inline-block;
+  text-align: center;
+  width: 49%;
+}
+
+h1 {
+  color: #f7786b;
+  font-family: cursive;
+  margin: 0px auto;
+}
+p {
+  color: #f7cac9;
+  font-size: 40px;
+  font-family: cursive;
+}
+
+img {
+  width: 40%;
+  border-radius: 40px;
+}
+
+footer {
+  text-align: center;
+  color: #fefbd8;
+  margin-top: 50px;
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+}
